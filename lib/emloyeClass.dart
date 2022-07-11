@@ -16,8 +16,3 @@ class employee {
   }
 }
 
-class a {
-  String anahtar;
-  a._(this.anahtar);
-  a key = a._("dsf");
-}
